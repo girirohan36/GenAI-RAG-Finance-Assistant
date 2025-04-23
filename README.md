@@ -2,7 +2,8 @@
 
 AskMy10K is a Retrieval-Augmented Generation (RAG) based assistant that helps users query financial filings like 10-Ks and earnings reports using natural language, delivering grounded and insightful responses.
 
-Still Building , Code coming Soon !!
+🚧 *This project is currently under development. Code and the interactive Streamlit app will be live soon — stay tuned!* 
+
 
 ## Architecture
 
