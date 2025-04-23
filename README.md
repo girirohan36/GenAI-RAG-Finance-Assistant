@@ -2,6 +2,8 @@
 
 AskMy10K is a Retrieval-Augmented Generation (RAG) based assistant that helps users query financial filings like 10-Ks and earnings reports using natural language, delivering grounded and insightful responses.
 
+Still Building , Code coming Soon !!
+
 ## Architecture
 
  PDF/HTML Financial Reports 
@@ -26,3 +28,7 @@ AskMy10K is a Retrieval-Augmented Generation (RAG) based assistant that helps us
 - **FAISS / Chroma** – Vector store for semantic search
 - **PyMuPDF / Unstructured** – PDF text extraction
 - **Streamlit** – Interactive user interface
+
+![ChatGPT Image Apr 21, 2025, 08_58_10 PM](https://github.com/user-attachments/assets/3371f8f7-ab47-4e72-93d7-1e437754dcae)
+
+
